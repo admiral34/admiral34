@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JingYi Ye.</h1>
+<h1 align="center">Hi 👋, I'm Daniel Ye.</h1>
 <h3 align="center">A passionate full stack developer from Hong Kong</h3>
 
 - 💬 Ask me about **React / Vue / Node/ Typescript / AWS**
