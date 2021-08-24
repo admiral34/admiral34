@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm JingYi Ye.</h1>
 <h3 align="center">A passionate full stack developer from Hong Kong</h3>
 
-- 👨‍💻 All of my projects are available at [https://jinzeng.netlify.app/](https://jinzeng.netlify.app/)
-
 - 💬 Ask me about **React / Vue / Node/ Typescript / AWS**
 
 - 📫 How to reach me **kwamerock9@gmail.com**
